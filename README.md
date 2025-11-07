@@ -15,9 +15,6 @@ The dashboard is built using **Microsoft Power BI** and provides interactive vis
 
 ---
 
-## 🧩 Dataset Information
-**Dataset Name:** `zomato.csv`  
-**Source:** Kaggle (Zomato Restaurant Dataset)
 
 ### Key Columns:
 | Column | Description |
@@ -71,6 +68,13 @@ The dashboard is built using **Microsoft Power BI** and provides interactive vis
 5. Use the **Country Slicer** to interactively filter top restaurants.
 
 ---
-
+<img width="1091" height="625" alt="Area-Wise-Rating" src="https://github.com/user-attachments/assets/23e11079-52b8-4fbd-8bb3-4ab9efa52ed7" />
+<img width="1113" height="616" alt="Top 10 Famus Restaurants by Rating and votes" src="https://github.com/user-attachments/assets/98681be4-6e5f-4722-8f4e-56d208478d44" />
+<img width="1109" height="623" alt="Cuisines and Avarage Rating by Cuisines" src="https://github.com/user-attachments/assets/dd083b47-cc3d-4020-a1a7-ea4da0b8cde4" />
+<img width="1108" height="625" alt="City wise Count of Restaurants" src="https://github.com/user-attachments/assets/d398af06-85a6-4adb-b27f-5253d7788360" />
+<img width="1109" height="621" alt="KPI for Average Rating" src="https://github.com/user-attachments/assets/eab8f82a-9c32-4379-8bab-873fa5ea7ff9" />
+<img width="1119" height="576" alt="Matrix Table" src="https://github.com/user-attachments/assets/cd6a67fa-938b-4867-b12b-862d231a515e" />
+<img width="1113" height="622" alt="Restaurant wise Rating by Country" src="https://github.com/user-attachments/assets/009af25c-5b77-4f94-a295-c00c3e8b06c6" />
+<img width="1119" height="630" alt="Dashboard" src="https://github.com/user-attachments/assets/150a852e-69fe-43ad-b87f-857282dce8ce" />
 <img width="1119" height="630" alt="Dashboard" src="https://github.com/user-attachments/assets/2614b845-90cc-42b3-be03-514a14c26a70" />
 
