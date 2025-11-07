@@ -72,4 +72,5 @@ The dashboard is built using **Microsoft Power BI** and provides interactive vis
 
 ---
 
-## 📂 Folder Structure
+<img width="1119" height="630" alt="Dashboard" src="https://github.com/user-attachments/assets/2614b845-90cc-42b3-be03-514a14c26a70" />
+
