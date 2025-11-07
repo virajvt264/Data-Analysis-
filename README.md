@@ -76,5 +76,4 @@ The dashboard is built using **Microsoft Power BI** and provides interactive vis
 <img width="1119" height="576" alt="Matrix Table" src="https://github.com/user-attachments/assets/cd6a67fa-938b-4867-b12b-862d231a515e" />
 <img width="1113" height="622" alt="Restaurant wise Rating by Country" src="https://github.com/user-attachments/assets/009af25c-5b77-4f94-a295-c00c3e8b06c6" />
 <img width="1119" height="630" alt="Dashboard" src="https://github.com/user-attachments/assets/150a852e-69fe-43ad-b87f-857282dce8ce" />
-<img width="1119" height="630" alt="Dashboard" src="https://github.com/user-attachments/assets/2614b845-90cc-42b3-be03-514a14c26a70" />
 
